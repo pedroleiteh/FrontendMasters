@@ -407,6 +407,6 @@ header ul li a:hover {
     }
 
     .close-menu:checked~.close-menu-label::after {
-        content: '×';
+        content: 'X';
     }
 }
