@@ -184,6 +184,7 @@ header ul li a:hover {
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
+    color: var(--primary-color);
 }
 
 .home-text-content p {
